@@ -26,6 +26,3 @@ WHERE population < 150000;
  SELECT AVG(population) 
  FROM bbc 
  WHERE name IN ('Poland', 'Germany', 'Denmark');
-
-
--- 6. Select the statement that shows the medium population density of each region
